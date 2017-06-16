@@ -6,6 +6,8 @@ La config globale, commune à tous les environnements de développement, se trou
 
 Dans `_config.dev.yml` ne figurent **que** les éléments spécifiques au développement local. Ainsi, en lançant la commande ci-dessous, c'est comme lancer le fichier `_config.yml`, mais avec les éléments spécifiques de `_config.dev.yml`.
 
+### Développement
+
 Lancer le serveur :
 ```bash
 bundle exec jekyll serve --config _config.yml,_config.dev.yml
