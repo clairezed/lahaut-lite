@@ -1,4 +1,4 @@
-# Jekyll starter
+# La haut lit
 
 ## How to use
 
