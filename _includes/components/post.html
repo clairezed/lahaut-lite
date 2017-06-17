@@ -13,7 +13,7 @@
     </div>
   </header>
   {% if post.featured_image %}
-    <a href="{{ post.url | relative_url }}" class="image featured"><img src="/assets/img/{{post.featured_image}}" alt="" /></a>
+    <a href="{{ post.url | relative_url }}" class="image featured"><img src="{{post.featured_image}}" alt="" /></a>
   {% endif %}
   <p>{{ post.excerpt }}</p>
   <footer>
