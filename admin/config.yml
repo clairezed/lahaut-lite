@@ -11,7 +11,7 @@ public_folder: "/assets/img/uploads"
 
 collections:
   - name: "blog" # Used in routes, e.g. /admin/collections/blog
-    label: "Blog" # Used in the UI
+    label: "Articles" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
@@ -19,7 +19,20 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featured_image", widget: "image"}
       # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-      # - {label: "Featured Image", name: "thumbnail", widget: "image"}
+  - name: "pages" # Used in routes, e.g. /admin/collections/blog
+    label: "Pages" # Used in the UI
+    folder: "_pagess" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{permalink}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Titre", name: "title", widget: "string"}
+      # - {label: "Date de publication", name: "date", widget: "datetime"}
+      # - {label: "Categories", name: "categories", widget: "list"}
+      # - {label: "Contenu", name: "body", widget: "markdown"}
+      # - {label: "Featured Image", name: "featured_image", widget: "image"}
+      # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
