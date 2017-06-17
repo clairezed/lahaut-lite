@@ -1,15 +1,12 @@
 ---
-layout: default
+layout: post
 title: A propos
 permalink: /a-propos
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Missionnée par le « Ministère des Internets », l’équipe du ONLI de Lyon (Observatoire Numérique Libertés-Identités) mène un projet pilote sur le périmètre urbain choisi.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Cette équipe pluridisciplinaire est spécialiste de la cybergraphie : une discipline scientifique comprenant toutes les méthodes et techniques de mesures appliquées à l’impact du cyber-espace et de sa population sur le monde réel.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+La finalité de la mission est de mener un diagnostic préalable au développement d’une couverture WI-FI nationale libre et publique, permettant le remplacement progressif des routeurs et abonnements individuels.

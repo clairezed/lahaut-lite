@@ -9,11 +9,13 @@ layout: default
       <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p>
     </div>
     <div class="meta">
-      {% assign date_format = site.format.date_format | default: "%b %-d, %Y" %}
-      {% assign meta_date_format = site.format.meta_date_format | default: "%Y-%m-%d" %}
-        <time class="published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
+      {% if page.date %}
+        {% assign date_format = site.format.date_format | default: "%b %-d, %Y" %}
+        {% assign meta_date_format = site.format.meta_date_format | default: "%Y-%m-%d" %}
+          <time class="published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: date_format }}
+        </time>
+      {% endif %}
       {% if page.author %}
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
           <a href="#" class="author">
@@ -23,7 +25,9 @@ layout: default
       {% endif %}
     </div>
   </header>
-  <span class="image featured"><img src="/assets/img/pic01.jpg" alt="" /></span>
+  {% if post.featured_image %}
+    <span class="image featured"><img src="/assets/img/{{post.featured_image}}" alt="" /></span>
+  {% endif %}
   <div class="" itemprop="articleBody">
     {{content}}
   </div>

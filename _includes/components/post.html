@@ -9,14 +9,16 @@
       {% assign meta_date_format = site.format.meta_date_format | default: "%Y-%m-%d" %}
       <time class="published" datetime="{{ post.date | date: meta_date_format }}">{{ post.date | date: date_format }}</time>
       <!-- <time class="published" datetime="2015-11-01">November 1, 2015</time> -->
-      <a href="#" class="author"><span class="name">Jane Doe</span><img src="assets/img/avatar.jpg" alt="" /></a>
+      <a href="#" class="author"><span class="name">Jane Doe</span><img src="/assets/img/avatar.jpg" alt="" /></a>
     </div>
   </header>
-  <a href="{{ post.url | relative_url }}" class="image featured"><img src="assets/img/pic01.jpg" alt="" /></a>
+  {% if post.featured_image %}
+    <a href="{{ post.url | relative_url }}" class="image featured"><img src="/assets/img/{{post.featured_image}}" alt="" /></a>
+  {% endif %}
   <p>{{ post.excerpt }}</p>
   <footer>
     <ul class="actions">
-      <li><a href="{{ post.url | relative_url }}" class="button big">Continue Reading</a></li>
+      <li><a href="{{ post.url | relative_url }}" class="button big">Continuer à lire</a></li>
     </ul>
     <ul class="stats">
       <li><a href="#">General</a></li>

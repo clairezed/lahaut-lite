@@ -1,7 +1,7 @@
 # Site settings -----------------------------------
-title: Là-haut
+title: ONLI Lyon
 email: clairezuliani@gmail.com
-description: Agence de cybergraphie émérit
+description: L'Observatoire Numérique Libertés - Identités est un laboratoire de recherche spécialisé en cybergraphie.
 # baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
 # url: "https://clairezed.github.io" # the base hostname & protocol for your site
 url: "https://lahaut.netlify.com" # the base hostname & protocol for your site
@@ -41,3 +41,7 @@ include:
 format:
   date_format: "%b %-d, %Y"       # NOVEMBER 1, 2015
   meta_date_format: "%Y-%m-%d"  # 2015-11-01
+
+header_pages:
+  - _pages/about.md
+  - _pages/components.html
