@@ -1,7 +1,7 @@
 # Site settings -----------------------------------
-title: La haut lite
+title: Là-haut
 email: clairezuliani@gmail.com
-description: My own jekyll starter
+description: Agence de cybergraphie émérit
 # baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
 # url: "https://clairezed.github.io" # the base hostname & protocol for your site
 url: "https://lahaut.netlify.com" # the base hostname & protocol for your site

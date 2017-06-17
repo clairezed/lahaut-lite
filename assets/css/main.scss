@@ -11,6 +11,18 @@
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,800,900');
 
+@font-face {
+    font-family: 'AG-Stencil';
+    src:url('../fonts/AG-Stencil.woff') format('woff'),
+    // src:url('../fonts/AG-Stencil.ttf.woff') format('woff'),
+    // src:url('../fonts/AG-Stencil.fonts2u.woff') format('woff'),
+        url('../fonts/AG-Stencil.ttf.svg#AG-Stencil') format('svg'),
+        url('../fonts/AG-Stencil.ttf.eot'),
+        url('../fonts/AG-Stencil.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /*
 	Future Imperfect by HTML5 UP
 	html5up.net | @ajlkn

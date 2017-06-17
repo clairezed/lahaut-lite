@@ -13,7 +13,7 @@
 	#header {
 		@include vendor('display', 'flex');
 		@include vendor('justify-content', 'space-between');
-		background-color: _palette(bg);
+		background-color: _palette(main);
 		border-bottom: solid 1px _palette(border);
 		height: 3.5em;
 		left: 0;

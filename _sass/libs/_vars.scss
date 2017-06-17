@@ -22,7 +22,8 @@
 	$font: (
 		family:						('Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:				('Courier New', monospace),
-		family-heading:				('Raleway', Helvetica, sans-serif),
+		// family-heading:				('Raleway', Helvetica, sans-serif),
+		family-heading:				('AG-Stencil', Helvetica, sans-serif),
 		weight:						400,
 		weight-bold:				700,
 		weight-heading:				400,
@@ -41,5 +42,7 @@
 		border:						rgba(160,160,160,0.3),
 		border-bg:					rgba(160,160,160,0.075),
 		border-alt:					rgba(160,160,160,0.65),
-		accent:						#2ebaae
+		accent:						#646464,
+		// accent:						#2ebaae,
+		main:						#fff200
 	);
