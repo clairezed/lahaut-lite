@@ -18,3 +18,9 @@ Votre site est visible sur [localhost:4000](localhost:4000)
 
 - Un dossier pour les pages, que je n'aime pas voir traîner (`_pages`). Du coup, ne pas oublier de mettre le permalink dans le frontmatter.
 - un fichier de `_config` par environnement
+
+
+## Twitter feed config
+
+- https://twitter.com/settings/widgets/875878165830414341/edit
+- https://dev.twitter.com/web/embedded-timelines
