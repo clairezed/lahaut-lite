@@ -20,7 +20,14 @@ Votre site est visible sur [localhost:4000](localhost:4000)
 - un fichier de `_config` par environnement
 
 
-## Twitter feed config
+## Ressources
+
+### Twitter feed
 
 - https://twitter.com/settings/widgets/875878165830414341/edit
 - https://dev.twitter.com/web/embedded-timelines
+
+### Netlify
+
+- [CMS](https://www.netlifycms.org/)
+- [Netlify docs](https://www.netlify.com/docs/)
