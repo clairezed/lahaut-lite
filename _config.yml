@@ -23,6 +23,7 @@ exclude:
 
 sass:
   sass_dir: _sass
+  sourcemap: true
   style: compressed
 
 

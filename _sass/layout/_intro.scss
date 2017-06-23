@@ -38,12 +38,14 @@
 
 		header {
 			h2 {
-				font-size: 2em;
+				font-size: 3em;
 				font-weight: _font(weight-heading-extrabold);
+				margin-bottom: 0.5em;
 			}
 
 			p {
-				font-size: 0.8em;
+				font-size: 1em;
+				line-height: 2;
 			}
 		}
 
@@ -53,7 +55,7 @@
 
 			header {
 				h2 {
-					font-size: 2em;
+					font-size: 3em;
 				}
 
 				p {
