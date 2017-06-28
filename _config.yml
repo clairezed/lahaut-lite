@@ -37,7 +37,18 @@ locale: fr
 include:
   - _pages
 
-# variables ----------------------------------------------
+# defaults ----------------------------------------------
+
+defaults:
+  -
+    scope:
+      path: "_pages" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "post"
+      permalink: /:basename
+
+# variables ---------------------------------------------
 
 format:
   date_format: "%b %-d, %Y"       # NOVEMBER 1, 2015

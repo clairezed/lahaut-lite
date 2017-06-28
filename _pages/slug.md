@@ -1,6 +1,5 @@
 ---
 layout: post
-title: slug ?
-permalink: slug
+title: sluguish ?
 ---
 sluuuu
