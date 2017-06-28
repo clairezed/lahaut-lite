@@ -27,9 +27,10 @@ collections:
     label: "Pages" # Used in the UI
     folder: "_pages" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{permalink}}" # Filename template i.e. YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    # slug: "{{permalink}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "slug", name: "permalink", widget: "string"}
+      # - {label: "slug", name: "permalink", widget: "string"}
