@@ -8,7 +8,7 @@ image: /assets/img/uploads/Carte_Vf_VERSO_web.jpg
 ---
 
 
-## Nous vous donnons rendez-vous le **Samedi 8 Juillet 2017** à partir de 21h00, Place des Marais.
+## Nous vous donnons rendez-vous le **Samedi 8 Juillet 2017** à partir de 22h00, Place des Marais.
 
 À cette occasion, nous inaugurerons le premier Jardin Partagé de Données de la ville ! 
 
