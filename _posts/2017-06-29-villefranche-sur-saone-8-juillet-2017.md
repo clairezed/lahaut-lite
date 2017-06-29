@@ -4,7 +4,7 @@ title: 'Villefranche-sur-Saône, 8 juillet 2017'
 date: 2017-06-29T14:30:28.219Z
 categories:
   - Nous rencontrer
-image: /assets/img/uploads/PUCE%202%20(2).png
+image: /assets/img/uploads/Carte_Vf_VERSO_web.jpg
 ---
 # Avis aux caladois, 
 
@@ -15,5 +15,6 @@ image: /assets/img/uploads/PUCE%202%20(2).png
 À cette occasion, nous inaugurerons le premier Jardin Partagé de Données de la ville ! 
 
 On a hâte de vous retrouver. 
+
 
 
