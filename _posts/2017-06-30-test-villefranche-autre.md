@@ -6,9 +6,7 @@ categories:
   - test
   - caniche
 image: null
-terrain: Villefranche
+territory: Villefranche
 highlighted: ':false'
 ---
 yup
-
-

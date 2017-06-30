@@ -13,6 +13,7 @@
 			margin: 0 0 (_size(element-margin) * 0.5) 0;
 			overflow: hidden;
 			position: relative;
+			transition: 300ms linear all;
 			// width: 4em;
 
 			// &:before {
@@ -28,6 +29,10 @@
 			// 	top: 0;
 			// 	width: 100%;
 			// }
+			&:hover{
+				transform: rotate(-30deg);
+				transform-origin: 49% 73%;
+			}
 
 			img {
 				display: block;

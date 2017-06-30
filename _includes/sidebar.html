@@ -1,8 +1,10 @@
 <section id="sidebar">
 
   <!-- Intro -->
-    <section id="intro">  
-      <a href="/" class="logo"><img src="{{ "/assets/img/logo.png" | prepend: site.baseurl }}" alt="logo onli lion" /></a>
+    <section id="intro">
+      <a href="/" class="logo">
+        <img src="{{ "/assets/img/LOGO_LH_72dpi.png" | prepend: site.baseurl }}" alt="logo onli lion" />
+      </a>
       <header>
         <h2>{{ site.title | escape }}</h2>
         <p>Observatoire Numérique Libertés - Identités</p>
@@ -12,8 +14,10 @@
 
   <!-- Mini Posts -->
     <section>
+      <h3>Nos travaux en cours</h3>
       <div class="mini-posts">
-        {% for post in site.posts %}
+        {% assign territory_posts = site.posts | where: "territory", "Villefranche" %}
+        {% for post in territory_posts %}
           {% include components/mini-post.html %}
         {% endfor %}
 
@@ -21,16 +25,15 @@
     </section>
 
   <!-- Posts List -->
-    <section>
+    <!-- <section>
       <ul class="posts">
         {% for post in site.posts %}
           <li>
             {% include components/xs-post.html %}
           </li>
         {% endfor %}
-
       </ul>
-    </section>
+    </section> -->
 
   <!-- About -->
     <section class="blurb">

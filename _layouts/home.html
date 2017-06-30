@@ -7,11 +7,11 @@ layout: default
   {{ content }}
 
   <div class="post-list">
-    {% for post in site.posts %}
+    {% assign highlighted_posts = site.posts | where: "highlighted", true %}
+    {% for post in highlighted_posts %}
       {% include components/post.html %}
     {% endfor %}
   </div>
-
 
   <!-- <ul class="actions pagination">
     <li><a href="" class="disabled button big previous">Page précédente</a></li>
