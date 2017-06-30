@@ -4,11 +4,11 @@
       <li>
         <article>
           <header>
-            <h3>{{ member.name }}</h3>
+            <h3>{{ member.title }}</h3>
             <p>{{ member.description }}</p>
           </header>
           {% if member.image %}
-            <img class="image featured" src="{{member.image}}" alt="image {{ member.name }}" />
+            <img class="image featured" src="{{member.image}}" alt="image {{ member.title }}" />
           {% endif %}
         </article>
       </li>
