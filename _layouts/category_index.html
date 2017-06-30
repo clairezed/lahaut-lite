@@ -1,0 +1,17 @@
+---
+layout: default
+sidebar: true
+---
+
+<div class="category-index">
+
+  <h1 class="index-title">Catégorie : {{ page.category  | capitalize }}</h1>
+
+
+  <div class="post-list">
+    {% for post in site.categories[page.category] %}
+      {% include components/post.html %}
+    {% endfor %}
+  </div>
+
+</div>

@@ -25,7 +25,12 @@
       <li><a href="{{ post.url | relative_url }}" class="button big">Continuer à lire</a></li>
     </ul>
     <ul class="stats">
-      <li><a href="#">General</a></li>
+      {% if post.categories %}
+        {% for category in post.categories %}
+          {% assign slugified_category = category | slugify %}
+          <li><a href="{{ slugified_category | relative_url | prepend: '/categories/' }}">{{ category }}</a></li>
+        {% endfor %}
+      {% endif %}
       <!-- <li><a href="#" class="icon fa-heart">28</a></li>
       <li><a href="#" class="icon fa-comment">128</a></li> -->
     </ul>
