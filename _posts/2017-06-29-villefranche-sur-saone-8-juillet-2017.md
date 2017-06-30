@@ -3,7 +3,7 @@ layout: post
 title: 'Villefranche-sur-Saône, 8 juillet 2017'
 date: 2017-06-29T14:30:28.219Z
 categories:
-  - Nous rencontrer
+  - Nous rencontrer ; test ;
 image: /assets/img/uploads/Carte_Vf_VERSO_web.jpg
 ---
 
@@ -13,6 +13,7 @@ image: /assets/img/uploads/Carte_Vf_VERSO_web.jpg
 À cette occasion, nous inaugurerons le premier Jardin Partagé de Données de la ville ! 
 
 On a hâte de vous retrouver. 
+
 
 
 
