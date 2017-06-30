@@ -5,6 +5,8 @@ date: 2017-06-29T14:30:28.219Z
 categories:
   - Nous rencontrer
   - test
+terrain: Villefranche
+highlighted: true
 image: /assets/img/uploads/Carte_Vf_VERSO_web.jpg
 ---
 
