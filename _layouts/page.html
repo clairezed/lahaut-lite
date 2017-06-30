@@ -3,12 +3,32 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+  <header>
+    <div class="title">
+      <h2><a href="#">{{ page.title | escape }}</a></h2>
+      {% if page.subtitle %}
+        <p>{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
   </header>
-
   <div class="post-content">
     {{ content }}
   </div>
+  <footer>
+    <ul class="stats">
+      {% if page.categories %}
+        <td>
+          {% for category in page.categories %}
+          <li><a href="#">{{ category }}</a></li>
+          {% endfor %}
+        </td>
+      {% endif %}
+      <li>
+        <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/" target="_blank" class="" title="Texte sous licence Creative Commons CC BY-NC-SA">
+          <img <img src="{{ "/assets/img/by-nc-sa.svg" | prepend: site.baseurl }}" alt="logo Creative Commons CC BY-NC-SA" />
+        </a>
+      </li>
+    </ul>
+  </footer>
 
 </article>

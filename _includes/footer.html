@@ -2,19 +2,22 @@
   <section id="footer">
     <ul class="icons">
       {% if site.twitter_username %}
-      <li>
-        {% include icon-twitter.html username=site.twitter_username %}
-      </li>
+        <li> {% include icon-twitter.html username=site.twitter_username %} </li>
       {% endif %}
-      <li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
-      <li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
-      <li><a href="{{ "/feed.xml" | relative_url }}" class="fa-rss"><span class="label">RSS</span></a></li>
+      {% if site.facebook_username %}
+        <li> {% include icon-facebook.html username=site.facebook_username %} </li>
+      {% endif %}
+      {% if site.instagram_username %}
+        <li> {% include icon-instagram.html username=site.instagram_username %} </li>
+      {% endif %}
+      <!-- <li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
+      <li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li> -->
       {% if site.email %}
-      <!-- <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li> -->
-      <li><a href="mailto:{{ site.email }}" class="fa-envelope"><span class="label">Email</span></a></li>
+        <li><a href="mailto:{{ site.email }}" class="fa-envelope"><span class="label">Email</span></a></li>
       {% endif %}
+      <li><a href="{{ "/feed.xml" | relative_url }}" class="fa-rss"><span class="label">RSS</span></a></li>
     </ul>
-    <p class="copyright">&copy; {{ site.title }}. Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>. Images: <a href="http://unsplash.com" target="_blank">Unsplash</a>.</p>
+    <p class="copyright">&copy; {{ site.title }} - 2017. <a href="{{ "/mentions-legales"  | relative_url }}" target="_blank">Mentions légales</a>. </p>
   </section>
 
 

@@ -1,6 +1,5 @@
 {% assign default_paths = site.pages | map: "path" %}
-<!-- {% assign page_paths = site.header_pages | default: default_paths %} -->
-{% assign page_paths = default_paths | default: default_paths %}
+{% assign page_paths = site.data.header_pages | map: "path" | default: default_paths %}
 
 <header id="header">
 

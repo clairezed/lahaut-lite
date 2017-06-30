@@ -4,7 +4,11 @@
     {% assign date_format = site.format.date_format | default: "%b %-d, %Y" %}
     {% assign meta_date_format = site.format.meta_date_format | default: "%Y-%m-%d" %}
     <time class="published" datetime="{{ post.date | date: meta_date_format }}">{{ post.date | date: date_format }}</time>
-    <a href="#" class="author"><img src="assets/img/avatar.jpg" alt="" /></a>
+    {% if page.author %}
+      <a href="#" class="author"><img src="assets/img/avatar.jpg" alt="" /></a>
+    {% endif %}
   </header>
-  <a href="{{ post.url | relative_url }}" class="image"><img src="assets/img/pic07.jpg" alt="" /></a>
+  {% if post.image %}
+    <a href="{{ post.url | relative_url }}" class="image featured"><img src="{{post.image}}" alt="" /></a>
+  {% endif %}
 </article>

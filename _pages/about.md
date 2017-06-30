@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: A propos
 permalink: /a-propos
 ---

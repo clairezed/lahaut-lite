@@ -1,14 +1,16 @@
 # Site settings -----------------------------------
 title: ONLI Lyon
-email: clairezuliani@gmail.com
 description: L'Observatoire Numérique Libertés - Identités est un laboratoire de recherche spécialisé en cybergraphie.
 # baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
 # url: "https://clairezed.github.io" # the base hostname & protocol for your site
 url: "https://lahaut.netlify.com" # the base hostname & protocol for your site
 
 # Social settings ------------------------------------
+email: contact@aadn.org
 github_username: clairezed
-twitter_username: ZooletteDesBois
+twitter_username: aadnlyon
+facebook_username: aadn.profil
+instagram_username: aadnlyon
 
 # Build settings --------------------------------------
 markdown: kramdown
@@ -55,5 +57,5 @@ format:
   meta_date_format: "%Y-%m-%d"  # 2015-11-01
 
 header_pages:
-  - _pages/about.md
-  - _pages/components.html
+  - _pages/quest-ce-que-la-cybergraphie.md
+  - _pages/qui-sommes-nous.md

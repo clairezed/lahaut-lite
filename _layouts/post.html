@@ -6,7 +6,9 @@ layout: default
   <header>
     <div class="title">
       <h2><a href="#">{{ page.title | escape }}</a></h2>
-      <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p>
+      {% if page.subtitle %}
+        <p>{{ page.subtitle }}</p>
+      {% endif %}
     </div>
     <div class="meta">
       {% if page.date %}
@@ -40,8 +42,13 @@ layout: default
           {% endfor %}
         </td>
       {% endif %}
-      <li><a href="#" class="icon fa-heart">28</a></li>
-      <li><a href="#" class="icon fa-comment">128</a></li>
+      <li>
+        <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/" target="_blank" class="" title="Texte sous licence Creative Commons CC BY-NC-SA">
+        <img <img src="{{ "/assets/img/by-nc-sa.svg" | prepend: site.baseurl }}" alt="logo Creative Commons CC BY-NC-SA" />
+      </a>
+      </li>
+      <!-- <li><a href="#" class="icon fa-heart">28</a></li>
+      <li><a href="#" class="icon fa-comment">128</a></li> -->
     </ul>
   </footer>
   {% if site.disqus.shortname %}
