@@ -1,0 +1,17 @@
+<section>
+  <ul class="team-members">
+    {% for member in site.team_members %}
+      <li>
+        <article>
+          <header>
+            <h3>{{ member.name }}</h3>
+            <p>{{ member.description }}</p>
+          </header>
+          {% if member.image %}
+            <img class="image featured" src="{{member.image}}" alt="image {{ member.name }}" />
+          {% endif %}
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

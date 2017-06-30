@@ -39,6 +39,14 @@ locale: fr
 include:
   - _pages
 
+# Collections -------------------------------------------
+
+collections:
+  team_members:
+    output: true
+    permalink: /equipe/:path/
+    title: Equipe
+
 # defaults ----------------------------------------------
 
 defaults:

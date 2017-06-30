@@ -38,3 +38,13 @@ collections:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
       # - {label: "slug", name: "permalink", widget: "string"}
+  - name: "team" # Used in routes, e.g. /admin/collections/blog
+    label: "Equipe" # Used in the UI
+    folder: "_team_members" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    # slug: "{{permalink}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Description", name: "description", widget: "text"}
