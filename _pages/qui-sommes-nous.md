@@ -4,10 +4,9 @@ title: 'Qui sommes-nous ? '
 ---
 # Présentation de l'équipe
 
-Jardineurs des internets, nous arrachons les trackers, nous plantons les récits, nous cueillons les souvenirs, nous compostons les données, nous labourons le Grand Nuage, nous semons les histoires, nous relocalisons la production et la consommation de nos data …
-
-
-Venant de divers horizons, notre équipe de cybergraphe s’est réunie pour créer des jardins partagés de données à travers le territoire pour éviter qu’elles ne soient toutes entreposées dans des data-center privés.
+Jardiniers des internets de l’ICI, nous établissons des ponts entre le “en ligne” et la vraie vie pour déployer des pépinières à récits. Pour cela, nous déracinons les trackers, nous compostons les données géoréférencées, nous labourons le Grand Nuage pour y cueillir les souvenirs enregistrés (photo, textes, images, cartes, etc), nous ouvrons des sillons pour semer des histoires : vos histoires, que nous relocalisons dans un circuit-court facilitant la réappropriation par tous et par chacun, ensemble, de nos existences numériques.
+ 
+Venant de divers horizons, notre équipe de [Cybergraphes](http://lahaut.netlify.com/quest-ce-que-la-cybergraphie) s’est réunie pour créer dans toutes les villes des Jardins Partagés de Données Locales, afin que se croisent les ceux qui émettent et ceux qui reçoivent des données, et d’éviter qu’elles ne soient toutes entreposées dans des data-center privés. 
 
 {% include team_members.html %}
 
