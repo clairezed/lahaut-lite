@@ -12,7 +12,7 @@ Venant de divers horizons, notre équipe de [Cybergraphes](http://lahaut.netlify
 
 ## Nos activités
 
-#_ Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale._
+# _ Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale._
 Géolocalisation des capteurs et émetteurs de données (services de surveillances urbaine, sources individuelles géolocalisées).
 Etude anthropographique et récoltes de données perdues.
 Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
