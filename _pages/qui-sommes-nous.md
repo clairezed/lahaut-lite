@@ -12,14 +12,27 @@ Venant de divers horizons, notre équipe de [Cybergraphes](http://lahaut.netlify
 
 # Nos activités
 
--   Labour du Grand Nuage pour récupérer les souvenirs
--   Préparation du quartier pour l’accueil des data-semences
--   Mise en place de circuits courts de données sensibles
--   Elagage de la Grande Donnée
--   Plantation de données
--   Mise en commun de nos composts numériques
+## Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale.
+Géolocalisation des capteurs et émetteurs de données (services de surveillances urbaine, sources individuelles géolocalisées).
+Etude anthropographique et récoltes de données perdues.
+Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
+ 
+## Inauguration de Jardins Partagés de Données :
+Inauguration d’une boîte de partage et d’échange (dead-drop, pirate-box, wi-if-ouvert)
+Plantation de données individuelles poétiques (ancrage de capsules de souvenirs numérisés)
+Mise en commun de nos composts numériques (espaces de partage de données, copy-party, etc)
+ 
+## Ressources pour les initiatives locales de libération des Données :
+Production d’un diagnostic cybergraphique : Carte d’Identité Numérique du Territoire.
+Documentation et partage des données sur Open-street-map.
+
 
 # Nos principes
+
+Inventée à la fin du XXeme Siècle, la fonction CTRL -S est un raccourci clavier qui permet d’assurer l’enregistrement et la conservation d’un fichier numérisé dans un état donné : documents, paroles, images, cartes, bases de données... Faire une sauvegarde devient un réflexe à partir duquel l’homme tend à externaliser sa mémoire, la répertorier, la classifier, la livrer au marché de la Grande Donnée, et la stocker, monopolisant ainsi quantité d’énergie non-renouvelable et d’intelligence non-transmissible au service d’un objectif pourtant valable : préserver le savoir. 
+ 
+  _Mais le préserver de quoi ?_
+Un contre-courant alternatif se développe alors, se donnant pour mission de réarticuler dans une société post-industrielle, post-numérique et bientôt post-humaine, un peu de poésie, de partage et de rencontre favorisant l’épanouissement au quotidien de ce dit “savoir” dans ses déclinaisons les plus vivantes : savoir-faire, savoir-être ensemble et savoir-rêver.
 
 Nous croyons en l’indépendance d’internet.
 
