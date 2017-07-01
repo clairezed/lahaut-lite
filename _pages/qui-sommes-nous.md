@@ -6,25 +6,26 @@ title: 'Qui sommes-nous ? '
 
 Jardiniers des internets de l’ICI, nous établissons des ponts entre le “en ligne” et la vraie vie pour déployer des pépinières à récits. Pour cela, nous déracinons les trackers, nous compostons les données géoréférencées, nous labourons le Grand Nuage pour y cueillir les souvenirs enregistrés (photo, textes, images, cartes, etc), nous ouvrons des sillons pour semer des histoires : vos histoires, que nous relocalisons dans un circuit-court facilitant la réappropriation par tous et par chacun, ensemble, de nos existences numériques.
  
-Venant de divers horizons, notre équipe de [Cybergraphes](http://lahaut.netlify.com/quest-ce-que-la-cybergraphie) s’est réunie pour créer dans toutes les villes des Jardins Partagés de Données Locales, afin que se croisent les ceux qui émettent et ceux qui reçoivent des données, et d’éviter qu’elles ne soient toutes entreposées dans des data-center privés. 
+Venant de divers horizons, notre équipe de [Cybergraphes](http://lahaut.netlify.com/quest-ce-que-la-cybergraphie) s’est réunie pour créer dans toutes les villes des Jardins Partagés de Données Locales, afin que se croisent ceux qui émettent et ceux qui reçoivent des données, et d’éviter qu’elles ne soient toutes entreposées dans des data-center privés. 
 
 {% include team_members.html %}
 
 ## Nos activités
 
 # _ Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale._
-Géolocalisation des capteurs et émetteurs de données (services de surveillances urbaine, sources individuelles géolocalisées).
-Etude anthropographique et récoltes de données perdues.
-Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
++ Géolocalisation des capteurs et émetteurs de données (services de surveillances urbaine, sources individuelles géolocalisées).
++ Etude anthropographique et récoltes de données perdues.
++ Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
+
  
 # _Inauguration de Jardins Partagés de Données :_
-Inauguration d’une boîte de partage et d’échange (dead-drop, pirate-box, wi-if-ouvert)
-Plantation de données individuelles poétiques (ancrage de capsules de souvenirs numérisés)
-Mise en commun de nos composts numériques (espaces de partage de données, copy-party, etc)
++ Inauguration d’une boîte de partage et d’échange (dead-drop, pirate-box, wi-if-ouvert)
++ Plantation de données individuelles poétiques (ancrage de capsules de souvenirs numérisés)
++ Mise en commun de nos composts numériques (espaces de partage de données, copy-party, etc)
  
 # _Ressources pour les initiatives locales de libération des Données :_
-Production d’un diagnostic cybergraphique : Carte d’Identité Numérique du Territoire.
-Documentation et partage des données sur Open-street-map.
++ Production d’un diagnostic cybergraphique : Carte d’Identité Numérique du Territoire.
++ Documentation et partage des données sur Open-street-map.
 
 
 ## Nos principes
