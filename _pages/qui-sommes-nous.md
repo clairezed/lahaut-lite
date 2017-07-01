@@ -2,7 +2,7 @@
 layout: post
 title: 'Qui sommes-nous ? '
 ---
-# Présentation de l'équipe
+## Présentation de l'équipe
 
 Jardiniers des internets de l’ICI, nous établissons des ponts entre le “en ligne” et la vraie vie pour déployer des pépinières à récits. Pour cela, nous déracinons les trackers, nous compostons les données géoréférencées, nous labourons le Grand Nuage pour y cueillir les souvenirs enregistrés (photo, textes, images, cartes, etc), nous ouvrons des sillons pour semer des histoires : vos histoires, que nous relocalisons dans un circuit-court facilitant la réappropriation par tous et par chacun, ensemble, de nos existences numériques.
  
@@ -10,24 +10,24 @@ Venant de divers horizons, notre équipe de [Cybergraphes](http://lahaut.netlify
 
 {% include team_members.html %}
 
-# Nos activités
+## Nos activités
 
-## Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale.
+#_ Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale._
 Géolocalisation des capteurs et émetteurs de données (services de surveillances urbaine, sources individuelles géolocalisées).
 Etude anthropographique et récoltes de données perdues.
 Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
  
-## Inauguration de Jardins Partagés de Données :
+# _Inauguration de Jardins Partagés de Données :_
 Inauguration d’une boîte de partage et d’échange (dead-drop, pirate-box, wi-if-ouvert)
 Plantation de données individuelles poétiques (ancrage de capsules de souvenirs numérisés)
 Mise en commun de nos composts numériques (espaces de partage de données, copy-party, etc)
  
-## Ressources pour les initiatives locales de libération des Données :
+# _Ressources pour les initiatives locales de libération des Données :_
 Production d’un diagnostic cybergraphique : Carte d’Identité Numérique du Territoire.
 Documentation et partage des données sur Open-street-map.
 
 
-# Nos principes
+## Nos principes
 
 Inventée à la fin du XXeme Siècle, la fonction CTRL -S est un raccourci clavier qui permet d’assurer l’enregistrement et la conservation d’un fichier numérisé dans un état donné : documents, paroles, images, cartes, bases de données... Faire une sauvegarde devient un réflexe à partir duquel l’homme tend à externaliser sa mémoire, la répertorier, la classifier, la livrer au marché de la Grande Donnée, et la stocker, monopolisant ainsi quantité d’énergie non-renouvelable et d’intelligence non-transmissible au service d’un objectif pourtant valable : préserver le savoir. 
  
