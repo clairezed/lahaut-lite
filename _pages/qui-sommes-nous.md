@@ -12,20 +12,28 @@ Venant de divers horizons, notre équipe de [Cybergraphes](http://lahaut.netlify
 
 ## Nos activités
 
-# _ Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale._
-+ Géolocalisation des capteurs et émetteurs de données (services de surveillances urbaine, sources individuelles géolocalisées).
-+ Etude anthropographique et récoltes de données perdues.
-+ Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
+# Etude préalable de l'impact du Grand Nuage (le Cloud) à l’échelle Locale._
+
+Géolocalisation des capteurs et émetteurs de données (services de surveillances urbaine, sources individuelles géolocalisées).
+
+Etude anthropographique et récoltes de données perdues.
+
+Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
 
  
 # _Inauguration de Jardins Partagés de Données :_
-+ Inauguration d’une boîte de partage et d’échange (dead-drop, pirate-box, wi-if-ouvert)
-+ Plantation de données individuelles poétiques (ancrage de capsules de souvenirs numérisés)
-+ Mise en commun de nos composts numériques (espaces de partage de données, copy-party, etc)
+
+Inauguration d’une boîte de partage et d’échange (dead-drop, pirate-box, wi-if-ouvert)
+
+Plantation de données individuelles poétiques (ancrage de capsules de souvenirs numérisés)
+
+Mise en commun de nos composts numériques (espaces de partage de données, copy-party, etc)
  
 # _Ressources pour les initiatives locales de libération des Données :_
-+ Production d’un diagnostic cybergraphique : Carte d’Identité Numérique du Territoire.
-+ Documentation et partage des données sur Open-street-map.
+
+Production d’un diagnostic cybergraphique : Carte d’Identité Numérique du Territoire.
+
+Documentation et partage des données sur [OpenStreetMap](http://openstreetmap.org/).
 
 
 ## Nos principes
