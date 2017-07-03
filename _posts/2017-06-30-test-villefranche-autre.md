@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Work in Progress à Villefranche-sur-Saône
+title: Arrivée à Villefranche-sur-Saône
 date: 2017-06-30T17:41:10.222Z
 categories:
   - infusion
   - villefranche-sur-saone
 image: /assets/img/uploads/Rencontre_avec_une_cybergraphe.jpg
 territory: Villefranche
-highlighted: true
+highlighted: false
 ---
 Les cybergraphes sont bien arrivés sur le terrain de Villefranche, et ont pris leurs marques à la _médiathèque Pierre Mendès France_ pour établir leurs outils. 
 
@@ -22,4 +22,5 @@ Et, n'oubliez pas, le rendu de notre étude cybergraphique aura lieu
 # 20h30 à la médiathèque 
 # 22h place des marais
 # à villefranche-sur-saône
+
 
