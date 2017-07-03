@@ -1,6 +1,6 @@
 # Site settings -----------------------------------
-title: ONLI Lyon
-description: L'Observatoire Numérique Libertés - Identités est un laboratoire de recherche spécialisé en cybergraphie.
+title: Là-haut
+description: Là-Haut est un projet de cybergraphie visant à réimplanter les données localement. 
 # baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
 # url: "https://clairezed.github.io" # the base hostname & protocol for your site
 url: "https://lahaut.netlify.com" # the base hostname & protocol for your site
