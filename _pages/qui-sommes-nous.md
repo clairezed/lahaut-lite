@@ -21,7 +21,7 @@ Géolocalisation des capteurs et émetteurs de données (services de surveillanc
 Cartographie du Grand Nuage à l’échelle du quartier (antennes, point wi-fi, densitométrie des ondes).
 
  
-# _Inauguration de Jardins Partagés de Données _
+# _Inauguration de Jardins Partagés de Données_
 
 Inauguration d’une boîte de partage et d’échanges (dead-drop, pirate-box, Wi-Fi ouvert)
 
@@ -29,7 +29,7 @@ Plantation de données individuelles poétiques (ancrage de capsules de souvenir
 
 Mise en commun de nos composts numériques (espaces de partage de données, copy-party, etc)
  
-# _Ressources pour les initiatives locales de libération des Données _
+# _Ressources pour les initiatives locales de libération des Données_
 
 Production d’un diagnostic cybergraphique : Carte d’Identité Numérique du Territoire.
 
