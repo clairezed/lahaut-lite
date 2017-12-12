@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Première aux Subsistances les 15 et 16 décembre 2018
+title: Rendez-vous aux Subsistances les 15 et 16 décembre 2018
 date: 2017-12-12T15:01:44.478Z
 categories:
   - Subsistances
