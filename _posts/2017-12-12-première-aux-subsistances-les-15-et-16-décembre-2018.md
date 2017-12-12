@@ -9,6 +9,8 @@ image: /assets/img/uploads/10dates1cat.jpg
 territory: Saint Denis
 highlighted: true
 ---
+![chatmoche](/assets/img/uploads/20.jpg)
+
 On analysis these clusters correlated with geo-location of
 
 definite classes: eucalyptus, Port Jackson willow, pine an
