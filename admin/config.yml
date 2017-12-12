@@ -22,7 +22,7 @@ collections:
       - {label: "Categories (séparées par ',')", name: "categories", widget: "list", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Terrain", name: "territory", widget: "select", options: ["Villefranche", "Saint Denis"], default: "Villefranche"}
+      - {label: "Terrain", name: "territory", widget: "select", options: ["Villefranche", "Saint Denis", "Lyon"], default: "Lyon"}
       # - {label: "Author", name: "author", widget: "relation", collection: "authors", searc}
       - {label: "En page d'accueil", name: "highlighted", widget: "boolean", default: :false}
       # - {label: "Author", name: "author", widget: "relation", collection: "authors", searchFields: ["first_name", "last_name"], valueField: "title"}
