@@ -3,36 +3,22 @@ layout: post
 title: Première aux Subsistances les 15 et 16 décembre 2018
 date: 2017-12-12T15:01:44.478Z
 categories:
-  - représentation
+  - Subsistances
+  - Premiere
   - cybergraphie
-  - premiere
-  - test 
-image: /assets/img/uploads/10dates1cat.jpg
+  - nous rencontrer
+image: /assets/img/uploads/Carte_Vf_VERSO_web.jpg
 territory: Lyon
 highlighted: true
 ---
-On analysis these clusters correlated with geo-location of
+Après plusieurs mois de travail acharné, l'équipe des cybergraphes de [Là-Haut](http://aadn.org/nos-creations/la-haut/) est prête à vous communiquer ses premiers résultats. 
 
-definite classes: eucalyptus, Port Jackson willow, pine an
+Pour cela, nous vous donnons rendez-vous : 
 
-water, bare field, agriculture, irrigated grass and wetland
+**à l'arrêt tcl "clos jouve" (30 boulevard de la croix rousse)**
 
+**le vendredi 15 décembre - 21h**
 
+**le samedi 16 décembre - 18h et 21h**
 
-![lh](/assets/img/uploads/Carte_Vf_VERSO_web.jpg)
-
-n the analysis. It must be noted that obtained classificatio
-
-he pine group, which include other trees of similar spectr
-
-_designated pixels of WorldView-2 images overlying samp_
-
-shown on the pictures (Fig. 2). 
-
-![chatmoche](/assets/img/uploads/20.jpg)
-
-While eucalyptus and Port
-
-species, pine tree, palms and other kinds are quite similar
-
-esponse curves correlated with the sites visited
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=4.819216132164002%2C45.771635339292594%2C4.823325276374818%2C45.77395519990264&amp;layer=transportmap&amp;marker=45.77279528165986%2C4.821270704269409" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=45.77280&amp;mlon=4.82127#map=18/45.77280/4.82127&amp;layers=T">
