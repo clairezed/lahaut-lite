@@ -8,7 +8,7 @@ categories:
   - premiere
   - test 
 image: /assets/img/uploads/10dates1cat.jpg
-territory: Saint Denis
+territory: Lyon
 highlighted: true
 ---
 On analysis these clusters correlated with geo-location of
