@@ -5,6 +5,8 @@ date: 2017-12-12T15:01:44.478Z
 categories:
   - représentation
   - cybergraphie
+  - premiere
+  - test 
 image: /assets/img/uploads/10dates1cat.jpg
 territory: Saint Denis
 highlighted: true
