@@ -7,7 +7,7 @@ categories:
   - Premiere
   - cybergraphie
   - nous rencontrer
-image: /assets/img/uploads/Carte_Vf_VERSO_web.jpg
+image: /assets/img/uploads/maps_subs.png
 territory: Lyon
 highlighted: true
 ---
