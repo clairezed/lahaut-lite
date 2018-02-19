@@ -10,10 +10,6 @@ categories:
 territory: Lyon
 highlighted: true
 ---
-![](/assets/img/uploads/lh residence subs .png)
-
-![](/assets/img/uploads/lh residence subs 2.png)
-
-![](/assets/img/uploads/lh residence subs 4.png)
+![](/assets/img/uploads/lh-residence-subs-2.jpg)
 
 Retour en images sur la période d'infusion des cybergraphes à Lyon, aux Subsistances.
